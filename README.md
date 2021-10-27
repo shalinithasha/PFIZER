@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://github.com/shalinithasha/PFIZER.git"><img src="https://telegra.ph/Pfizer-telegram-bot-10-27" width="2000"></a></p>
+<p align="center"><a href="https://github.com/shalinithasha/PFIZER.git"><img src="https://c4.wallpaperflare.com/wallpaper/620/133/184/bed-league-of-legends-nurses-sexy-anime-wallpaper-preview.jpg" width="2000"></a></p>
 
 Telegram bot to automate and manage channels.
 
